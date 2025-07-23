@@ -9,10 +9,38 @@ _________ {
 }
 
 /* Record your solutions here:
-   #1 -
-   #2 - 
-   #3 - 
-   #4 -
-   #5 -
+   #1 - h1 {
+  font-family: Helvetica;
+  font-size: 300%;
+  color: #ffd63e;
+  text-align: center;
+}
+   #2 - #pikachu {
+  font-family: Helvetica;
+  font-size: 300%;
+  color: #ffd63e;
+  text-align: center;
+}
+
+   #3 - div > h1 {
+  font-family: Helvetica;
+  font-size: 300%;
+  color: #ffd63e;
+  text-align: center;
+}
+   #4 - body h1 {
+  font-family: Helvetica;
+  font-size: 300%;
+  color: #ffd63e;
+  text-align: center;
+}
+
+   #5 - [style] {
+  font-family: Helvetica;
+  font-size: 300%;
+  color: #ffd63e;
+  text-align: center;
+}
+
 
    e.g. - .pika               */
